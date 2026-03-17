@@ -1,0 +1,5 @@
+Acme Voice Support is available 24/7.
+
+If callers ask for order status, request order ID and email, then confirm expected delivery window.
+
+For billing disputes, collect invoice number and transfer only when identity checks pass.
